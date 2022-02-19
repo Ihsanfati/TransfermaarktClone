@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+}
+.search-container {
+    margin: auto;
+}
+.card-container {
+    margin: auto;
+}
+.player-card {
+    margin: auto;
+    padding: auto;
+    float: left;
+}
